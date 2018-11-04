@@ -14,7 +14,7 @@ include 'includes/navigation.php';
 
 	  <section id="newsletter" >
 	   <div class="container">
-	   	 <h4>At Chimayo we grow a variety of crops with major focus on maize,soya beans,tobacco,bananas and wheat.Our farm has 1000hecters all arable </h4>
+	   	 <h4>At Chimayo we grow a variety of crops with major focus on maize,soya beans,tobacco,bananas and wheat.Our farm has 1000hecters all fsgsdgsvdhgvy arable land </h4>
 
 	   </div>
 	  </section>
